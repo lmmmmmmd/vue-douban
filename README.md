@@ -18,7 +18,7 @@ Vue-router
 Vue-resource
 Vue-awesome-swiper
 
-
+ 
 ## 主要收获
 vue基础用语
 vue钩子函数理解
@@ -28,4 +28,4 @@ vue插件的搭配
 
 ##效果
 
-![效果展示](./gif/GIF.gif)
+![展示](./gif/GIF.gif)
