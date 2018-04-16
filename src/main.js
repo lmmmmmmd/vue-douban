@@ -15,6 +15,7 @@ import mine from './components/Mine/Mine.vue'//我的
 import movie from './components/Play/movie/movie.vue'//电影详情
 import search from './components/header/search/search.vue'//搜索
 import city from './components/header/city/city.vue'//搜索
+import movieDetail from './components/Play/movie/movie_detail/movie_detail.vue'//搜索
 /* eslint-disable no-new */
 Vue.use(VueResource);
 Vue.use(VueRouter);
@@ -29,7 +30,7 @@ var router = new VueRouter({
 		{path: "/movie", component: movie,name:'movie', meta: {keepAlive: false}},
 		{path: "/search", component:search,name:'search', meta: {keepAlive: false}},
 		{path: "/city", component:city,name:'city', meta: {keepAlive: false}},
-		{path: "/movie/details", component:city,name:'city', meta: {keepAlive: false}}
+		{path: "/movie/details", component:movieDetail,name:'detail', meta: {keepAlive: false}}
 	]
 });
 

@@ -1,21 +1,10 @@
-# douban
+# 基于vue2.0 模拟豆瓣电影app 
 
-> lm
+> lmmmmmmd
 
-## Build Setup
+## 概述
 
 ``` bash
-# install dependencies
-npm install
+利用vue2.0 模仿豆瓣电影app，技术栈 Vue+Vuex+Vue-router+Vue-resource+Vue-awesome-swiper 使用Vue-resource获取豆瓣api，vuex存储电影ID，Vue-router切换路由，Vue-awesome-swiper 实现滑动切换组件功能
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
