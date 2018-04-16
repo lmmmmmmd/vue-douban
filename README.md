@@ -29,4 +29,4 @@ vue插件的搭配
 
 效果
 
-![image](https://github.com/lmmmmmmd/vue-douban/blob/master/gif/GIF.gif) 
+![image](https://github.com/lmmmmmmd/vue-douban/blob/master/gif/GIF.gif)
