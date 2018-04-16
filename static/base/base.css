@@ -1,0 +1,50 @@
+
+/*NowPlay*/
+.Play_list{
+	width: 100%;
+	height: 180px;
+	font-family:"微软雅黑";
+}
+.Play_list a{
+	display: flex;
+}
+.list_img{
+	width: 105px;
+	height: 150px;
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.box-shadow-1px {
+  box-shadow: inset 0px -1px 1px -1px #a4a4a4;
+}
+.list_massgage{
+	margin-left: 15px;
+	width: 150px;
+}
+.list_title{
+	font-size: 16px;
+	font-weight: 600;
+	color:#494949;
+	margin-top: 20px;
+}
+.list_rating{
+	display: flex;
+	font-size: 12px;
+	padding-top: 15px;
+}
+.list_directors{
+	color: #9b9b9b;
+	font-size: 14px;
+	line-height: 18px;
+}
+.list_casts{
+	color: #9b9b9b;
+	font-size: 12px;
+	line-height: 18px;
+}
+.Buy_ticket{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 80px;
+}
