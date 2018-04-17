@@ -28,4 +28,7 @@ vue插件的搭配
 
 ##效果
 
+<<<<<<< HEAD
 ![展示](https://github.com/lmmmmmmd/vue-douban/blob/master/gif/GIF.gif)
+=======
+>>>>>>> f092694b8af9d6814faf131f21b5fe4a391d433f
